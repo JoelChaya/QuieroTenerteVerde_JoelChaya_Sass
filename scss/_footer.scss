@@ -1,0 +1,14 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Square+Peg&display=swap');
+
+.footer-main{
+    background-color: black;
+    .footer-texto{
+        font-family: 'Bebas Neue';
+        color: white;
+    }
+
+    .lista-footer{
+        list-style: none;
+    }
+}

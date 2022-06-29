@@ -1,0 +1,45 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Square+Peg&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Square+Peg&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Square+Peg&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer-main {
+  background-color: black;
+}
+.footer-main .footer-texto {
+  font-family: "Bebas Neue";
+  color: white;
+}
+.footer-main .lista-footer {
+  list-style: none;
+}
+
+.encabezado {
+  background-color: #000000;
+}
+.encabezado .navbar .navbar-nav .nav-link {
+  font-family: "Bebas Neue";
+  font-size: 1.5rem;
+  color: white;
+}
+.encabezado .navbar .navbar-nav .nav-link:hover {
+  color: lightgray;
+}
+
+.index-texto {
+  font-family: "Bebas Neue";
+  font-family: "Square Peg", cursive;
+  margin-top: -1rem;
+}
+.index-texto .index-texto-titulo {
+  font-size: 5rem;
+}
+.index-texto .index-texto-cuerpo {
+  font-size: 2rem;
+}/*# sourceMappingURL=estilos.css.map */
